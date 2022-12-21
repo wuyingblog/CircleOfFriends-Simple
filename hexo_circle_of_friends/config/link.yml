@@ -1,9 +1,3 @@
-- name: 小冰博客
-  link: https://zfe.space/
-  feed: https://zfe.space/atom.xml
-  avatar: https://zfe.space/images/headimage.png
-  descr: 做个有梦想的人！
-
 - name: Akilarの糖果屋
   link: https://akilar.top/
   feed: https://akilar.top/atom.xml
